@@ -1,6 +1,6 @@
 ###
 
-<h2 align="left">Techs 🛠️</h2>
+<h1 align="left">Techs 🛠️</h1>
 
 ###
 
@@ -24,10 +24,6 @@
   <a href="https://www.linkedin.com/in/matheus-shiokawa-3705672a5/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-</div>
-
-<div align="center">
-  <img height="200" src="https://media1.tenor.com/m/oa0R1SwaXCoAAAAC/dance.gif"  />
 </div>
 
 ###

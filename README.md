@@ -1,11 +1,3 @@
-<h2 align="left">About Me 👤</h2>
-
-###
-
-<h3 align="left">I started my career in 2023, both in college and in extracurricular courses. I am currently taking the 4th semester of the Computer Science course and I have a strong interest in software development. 🎓🌐💻</h3>
-
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/matheus-shiokawa-3705672a5/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />

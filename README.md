@@ -20,7 +20,7 @@
 
 ###
 
-<h4 align="left">I started my career in 2023, both in college and in extracurricular courses. I am currently taking the 4th semester of the Computer Science course and I have a strong interest in software development. 🎓🌐💻</h4>
+<h3 align="left">I started my career in 2023, both in college and in extracurricular courses. I am currently taking the 4th semester of the Computer Science course and I have a strong interest in software development. 🎓🌐💻</h3>
 
 ###
 

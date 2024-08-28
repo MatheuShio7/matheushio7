@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheuShio7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=apprentice&hide_border=true&order=2" height="165" alt="languages graph"  />
+</div>
 
-<!--
-**MatheuShio7/matheushio7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h2 align="left">Techs 🛠️</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+###
+
+<h2 align="left">About Me 👤</h2>
+
+###
+
+<h4 align="left">I started my career in 2023, both in college and in extracurricular courses. I am currently taking the 4th semester of the Computer Science course and I have a strong interest in software development. 🎓🌐💻</h4>
+
+###
+
+<img align="right" height="200" src="https://media1.tenor.com/m/oa0R1SwaXCoAAAAC/dance.gif"  />
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/matheus-shiokawa-3705672a5/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
